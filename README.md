@@ -3,4 +3,4 @@ First of all our project names is NexBuy, another e-commerce web where
 we all are having fun while developing it. 
 I think that's it for now. 
 
-My name is Rodrigo, hello.
+Mi nombre es Rodrigo, integrante del equipo de IRU.
